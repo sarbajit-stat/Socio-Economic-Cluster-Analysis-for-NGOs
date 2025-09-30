@@ -33,49 +33,6 @@ The plot below clearly shows the "elbow" at K=3, validating our choice of three 
 Country Cluster Visualization
 The PCA plot visualizes the three clusters, demonstrating a clear separation between the groups based on their overall development indicators.
 
-Cluster Profiles
-The table below shows the average values for key metrics across the three clusters. The differences are stark, with Cluster 0 showing extremely high child mortality, low income, and low life expectancy.
-
-Cluster
-
-Child Mortality
-
-Income (per person)
-
-GDPP (per capita)
-
-Life Expectancy
-
-Cluster 0
-
-92.9
-
-$1,652
-
-$799
-
-59.2 years
-
-Cluster 1
-
-21.9
-
-$9,956
-
-$5,556
-
-72.8 years
-
-Cluster 2
-
-5.0
-
-$45,074
-
-$48,822
-
-80.3 years
-
 🏆 Conclusion & Recommendation
 Based on the analysis, the countries in Cluster 0 are unequivocally the most in need of humanitarian aid.
 
